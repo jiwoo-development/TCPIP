@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0RoQrHeq5EC/csgdxE5zJkPaTU16yAu3V9e2rB96tQZ+LqU6m9wtAczR3yAcKP6yN4/Rpg9Ms5Vp7fLzevujQ==",
+  "success": true,
+  "projectFilePath": "C:\\TcpIp\\TCPIP\\TCPIP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OWNER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\OWNER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\TcpIp\TCPIP\bin\Debug\netstandard2.0\TCPIP.deps.json
+C:\TcpIp\TCPIP\bin\Debug\netstandard2.0\TCPIP.dll
+C:\TcpIp\TCPIP\bin\Debug\netstandard2.0\TCPIP.pdb
+C:\TcpIp\TCPIP\obj\Debug\netstandard2.0\TCPIP.csprojAssemblyReference.cache
+C:\TcpIp\TCPIP\obj\Debug\netstandard2.0\TCPIP.AssemblyInfoInputs.cache
+C:\TcpIp\TCPIP\obj\Debug\netstandard2.0\TCPIP.AssemblyInfo.cs
+C:\TcpIp\TCPIP\obj\Debug\netstandard2.0\TCPIP.csproj.CoreCompileInputs.cache
+C:\TcpIp\TCPIP\obj\Debug\netstandard2.0\TCPIP.dll
+C:\TcpIp\TCPIP\obj\Debug\netstandard2.0\TCPIP.pdb
